@@ -1,0 +1,21 @@
+body { font-family: sans-serif;} 
+h1, h2 { 
+    color: gray;}
+h1 { 
+    border-bottom: 2px solid black;} 
+p { color: maroon; }
+blockquote.greentea, p.greentea { 
+color: green;
+ }
+p.malinsirop { 
+color: red;
+ }
+p.golubiktea { 
+color: purple;
+ }
+p.klukvatea { 
+color: red;
+ }
+blockquote.greentea, p.greentea { 
+color: green;
+ }
